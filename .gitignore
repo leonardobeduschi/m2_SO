@@ -1,0 +1,2 @@
+__pycache__/
+git rm --cached src/__pycache__/*.pyc
